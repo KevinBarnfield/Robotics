@@ -1,5 +1,5 @@
 # Robotics
-  For my work relating to robotics, whether it's personal projects or ones I have worked on with the UOGUELPH Robotics Team.
+  For my work relating to robotics, whether it's personal projects or ones I have worked on with the UOGUELPH Robotics Team. This is also meant as a reference for future members, so I will try my best to keep it documented well.
 
 ### Projects
 
